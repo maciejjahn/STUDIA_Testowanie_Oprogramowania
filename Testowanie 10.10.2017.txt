@@ -25,4 +25,7 @@ druga ikona od lewewj w JMETER (templatki)
 
 template Recording ->create
 
+arekp - trzeci link
+
+
 workbench ->request filtering- >url patterns to include \*jpg - beda same jpgi
