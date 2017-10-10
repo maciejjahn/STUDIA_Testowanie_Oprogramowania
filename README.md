@@ -1,0 +1,1 @@
+# STUDIA_Testowanie_Oprogramowania
