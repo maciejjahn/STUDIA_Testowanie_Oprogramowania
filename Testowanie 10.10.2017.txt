@@ -21,3 +21,8 @@ http cookie manager
 http request
 
 
+druga ikona od lewewj w JMETER (templatki)
+
+template Recording ->create
+
+workbench ->request filtering- >url patterns to include \*jpg - beda same jpgi
